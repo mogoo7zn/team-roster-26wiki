@@ -60,7 +60,7 @@
 - **相关链接：**
   - [GitHub 仓库](https://github.com/foeyt/iGEM-Web)
   - [GitHub Pages 链接](https://foeyt.github.io/iGEM-Web/)
-- **备注：**这几天在忙着学驾照考科目二，落了几天，抽空完善了一下。
+- **备注：** 这几天在忙着学驾照考科目二，落了几天，抽空完善了一下。
 
 #### 2026-2-11
 
